@@ -20,7 +20,7 @@ export const projects = [
 
     github: "",
 
-    image: "/projects/tabvian.png"
+    image: "/public/projects/tabvian.png"
   },
 
   {
