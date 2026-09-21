@@ -4,14 +4,6 @@ Portafolio web personal desarrollado para presentar mis proyectos, experiencia a
 
 El proyecto está pensado como una aplicación web moderna, sencilla de navegar y enfocada en mostrar tanto el resultado visual de mis proyectos como las tecnologías utilizadas en su desarrollo.
 
-## Preview
-
-> Puedes agregar aquí una captura de pantalla de tu portafolio.
-
-```text
-https://TU-PORTAFOLIO.com
-```
-
 ## Tecnologías
 
 * React
@@ -115,11 +107,11 @@ Este proyecto forma parte de mi proceso de aprendizaje y desarrollo profesional,
 
 ## Autor
 
-**Alejandro**
+**Alejandro de la Cruz De los Santos**
 
 Ingeniero en Sistemas Computacionales.
 
-GitHub: `@TU-USUARIO`
+GitHub: `https://github.com/Alejandro-C-S`
 
 ---
 
