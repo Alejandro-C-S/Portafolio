@@ -51,13 +51,13 @@ function Home({ onOpenFile }) {
             </button>
 
             <a
-            href="/CV_ALEJANDRO.pdf"
-            className="btn btn-secondary"
-            target="_blank"
-            rel="noopener noreferrer"
+              href={`${import.meta.env.BASE_URL}CV_ALEJANDRO.pdf`}
+              className="btn btn-secondary"
+              target="_blank"
+              rel="noopener noreferrer"
             >
-            Ver CV
-            <span>↗</span>
+              Ver CV
+              <span>↗</span>
             </a>
           </div>
 

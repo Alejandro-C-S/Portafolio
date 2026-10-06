@@ -199,16 +199,15 @@ function Contact() {
                     : "Copiar email"}
                 </button>
 
-
                 <a
-                href="/CV_ALEJANDRO.pdf"
+                href={`${import.meta.env.BASE_URL}CV_ALEJANDRO.pdf`}
                 className="btn btn-secondary"
                 target="_blank"
                 rel="noopener noreferrer"
-                >
+              >
                 Ver CV
                 <span>↗</span>
-                </a>
+              </a>
 
               </div>
 

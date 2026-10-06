@@ -107,11 +107,11 @@ Este proyecto forma parte de mi proceso de aprendizaje y desarrollo profesional,
 
 ## Autor
 
-**Alejandro de la Cruz De los Santos**
+**Alejandro de la Cruz de los Santos**
 
 Ingeniero en Sistemas Computacionales.
 
-GitHub: `https://github.com/Alejandro-C-S`
+GitHub: ` https://github.com/Alejandro-C-S`
 
 ---
 
